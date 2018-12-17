@@ -16,7 +16,7 @@
 <h2>4. Rationale</h2>
 <p>This was designed to be used as a resource outside of class that students could use whenever they want, as often as they want. In this sense it is a "flipped or blended" resource [3]. The nature of a jupyter notebook (it's a fancy text file) means that students necessarily must download their own version of it and edit it as they go. This encourages them to personalize the material and take ownership of it. They can even modify the examples in the text instantly see how it changes the outcome.</p>
 
-[![Technologic](https://img.youtube.com/vi/D8K90hX4PrE/0.jpg)](https://www.youtube.com/watch?v=D8K90hX4PrE)
+> [*Technologic - Daft Punk*](https://www.youtube.com/watch?v=D8K90hX4PrE)
 
 <p>In the SAMR model [2] this is firmly in the "Redefinition" category, as the Jupyter notebook simultaneously acts as information, scratch pad, code compiler, notebook, and authentic outcome. In addition, completing the exercises in a Jupyter notebook is an authentic use of the skill being trained.</p>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_SAMR_Model.jpg/975px-The_SAMR_Model.jpg" alt="" title="" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;" /></p>
