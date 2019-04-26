@@ -1,7 +1,7 @@
 <h2>1. Authentic resource</h2>
-<p>The <a rel="noopener" href="https://github.com/mpawliuk/Learning-LaTeX" target="_blank">jupyter notebook is available for download here</a>. The intention is for it to be run on <a rel="noopener" href="https://ucalgary.syzygy.ca/" target="_blank">your free UCalgary syzygy server</a>. The document can be read on Github, but on Syzygy it can be <em>interacted with</em>.</p>
+<p>The <a rel="noopener" href="https://github.com/mpawliuk/Learning-LaTeX" target="_blank">jupyter notebook is available for download here</a>. The intention is for it to be run on <a rel="noopener" href="http://utoronto.syzygy.ca/" target="_blank">your free UToronto syzygy server</a> or <a rel="noopener" href="https://ucalgary.syzygy.ca/" target="_blank">your free UCalgary syzygy server</a>. The document can be read on Github, but on Syzygy it can be <em>interacted with</em>.</p>
 <h2>2. Background</h2>
-<p>LaTeX (pronounced "Lay-Tech" or "Laa-Tech" ) is a computer language used by mathematicians and physicists to nicely format mathematical expressions. Every math student will eventually need to know how to write in LaTeX, since all math journals are written using LaTeX. It is also used in every online platform that supports math writting, such as D2L discussion posts, Github, Wordpress blogs, and Mathoverflow.</p>
+<p>LaTeX (pronounced "Lay-Tech" or "Laa-Tech" ) is a computer language used by mathematicians and physicists to nicely format mathematical expressions. Every math student will eventually need to know how to write in LaTeX, since all math journals are written using LaTeX. It is also used in every online platform that supports math writting, such as D2L discussion posts, Github, Wordpress blogs, Piazza, and Mathoverflow.</p>
 
 ![](http://latex2png.com/output//latex_a09588720c5d1e3a1948e857b5e99c51.png)
 
